@@ -1,0 +1,37 @@
+.side-nav{
+	background:rgb(34, 0, 85);
+	transform: translateX(0%) !important;
+}
+
+
+.logo{
+	height:9rem;
+	width:9rem;
+}
+
+body{
+   background: url("/images/carInfo.jpg")no-repeat center center fixed;
+   background-size: cover;
+  
+}
+
+.center-div{
+	
+  
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 20rem;
+  width: 50rem;
+  height: 40rem;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 1rem;
+  padding:6rem .5rem 0rem .5rem;
+}
+
+.collection-item.avatar .circle{
+	width:4rem !important;
+	height:4rem !important;
+}
