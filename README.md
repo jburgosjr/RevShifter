@@ -7,7 +7,7 @@
 
 ## What is it?
 
-### RevShifter is a social media site for car enthusiasts to share their vehicles. you can store your vehicles in a "Garage" so other users can view and learn about your vehicles. you can follow other users as well as like "which are called revs" their pictures and comment on them. 
+### RevShifter is a social media site for car enthusiasts to share their vehicles. you can store your vehicles in a "Garage" so other users can view and learn about your vehicles. you can follow other users as well as "like" (which are called revs) their pictures and comment on them. 
 
 ## Technologies Used
  * Java/Spring Boot 
